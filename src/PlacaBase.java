@@ -1,3 +1,4 @@
+
 public class PlacaBase {
     // sockets, slots,conectores,conectividad, chipset//
     public String marca;

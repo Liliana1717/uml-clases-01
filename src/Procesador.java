@@ -1,3 +1,5 @@
+//clase guardada en git
+
 public class Procesador {
     //  estados,atributos,propiedades
     public String marca;
