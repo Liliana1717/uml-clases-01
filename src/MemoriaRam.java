@@ -5,24 +5,24 @@ public class MemoriaRam {
     public Double precio;
     public String modelo;
 
-    public String voltaje, latencia;
+    public String voltaje,latencia,tipo;
 
     public String getFullName() {
-        return marca + " " + precio + " " + modelo + " " + voltaje + " " + latencia;
+        return marca + " " + precio + " " + modelo + " " + voltaje + " " + latencia + " " + tipo;
 
-        public String getMarca(){
+        public String getMarca () {
             return marca;
         }
-        public Double getPrecio() {
+        public Double getPrecio () {
             return precio;
         }
-        public String getVoltaje(){
+        public String getVoltaje () {
             return voltaje;
         }
-        public String getLatencia(){
+        public String getLatencia() {
             return latencia;
         }
+        public String getTipo() {
+        }
+
     }
-
-
-}
