@@ -1,22 +1,22 @@
+
 public class MainJava {
     public static void main(String[] arg) {
-        procesador = procesador new (System.in);
+String procesador;
         procesador marca = "intel";
         procesador modelo = "i7";
 
         procesador precio = "429,90";
-    }
+
 System.out.println("getFullName")
 
-    {
+
         System.out.println("getIntel");
         System.out.println("getI7");
         System.out.println("get429.90");
     }
 
     public static void main(String[] arg) {
-        memoriaram = memoriaram new (System.in);
-
+String memoriaram;
         // memoria ram//
         memoriaram marca = "kingston";
         memoriaram precio = "110,90";
@@ -32,8 +32,8 @@ System.out.println("getFullName")
 
 
     public static void main(String[] arg) {
+String placabase;
 
-        placabase = placabase new (System.in);
 
         // placa base//
 
@@ -53,9 +53,8 @@ System.out.println("getFullName")
     }
 
     public static void main (String[] arg) {
-        cajatorre = cajatorre new (System.in);
 // caja torre//
-
+String cajatorre;
       cajatorre marca = "tacens";
       cajatorre  precio="32";
       cajatorre modelo ="orumx";
@@ -76,4 +75,5 @@ System.out.println("getFullName")
         System.out.println("getHdd");
 
     }
+}
 }
