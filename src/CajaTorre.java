@@ -14,9 +14,7 @@ public class CajaTorre {
     }
 
     public Double getPrecio() {
-        return precio;
-
-    }
+        return precio;}
 
     public String getModelo() {
 
